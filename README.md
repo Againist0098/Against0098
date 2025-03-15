@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 ## Skills
 - **Languages**: Python
 - **Frameworks**: 
-- **Tools**: Git, GitHub, Docker
+- **Tools**: chatGpt,visual Studio Code
 
 ## Projects
 not have one yet
